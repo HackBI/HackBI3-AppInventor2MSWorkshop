@@ -1,4 +1,4 @@
-# App-Inventor-2-Hack-BI--MS
+## App-Inventor-2-Hack-BI--MS Workshop
 App Inventor workshop for middle schoolers during Hack BI. 
 # Purpose
 By the end of this workshop, students should understand how to make a basic application using a canvas, clock, and sprites.
