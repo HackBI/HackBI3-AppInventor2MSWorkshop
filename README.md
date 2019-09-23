@@ -1,4 +1,4 @@
-## App Inventor 2 Hack BI Middle School Workshop
+# App Inventor 2 Hack BI Middle School Workshop
 App Inventor workshop for middle schoolers during the Bishop Ireton's third Hackathon, Hack BI III.
 ## Getting Started
 1. Go to App Inventor 2 web page: ai2.appinventor.mit.edu
