@@ -5,8 +5,6 @@ App Inventor workshop for middle schoolers during the Bishop Ireton's third Hack
 2. Sign in to your account
 3. Click "New Project"
 4. Click connect > emulator
-## Purpose
-By the end of this workshop, students should know how to randomly animate sprites on a canvas with the clock component, how to use a variable to store a value, 
 ## Topics
 - How to use a clock component to randomize movement of sprites on a canvas
 - How to use a button component to trigger event listeners
