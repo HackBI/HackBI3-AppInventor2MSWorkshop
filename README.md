@@ -5,6 +5,8 @@ App Inventor workshop for middle schoolers during the Bishop Ireton's third Hack
 2. Sign in to your account
 3. Click "New Project"
 4. Click connect > emulator
+## Purpose
+The main objective of this workshop is to give students a basic understanding of App Inventor 2 so that they can make their own apps at home and use the resources to expand their knowledge of how to create applications. 
 ## Topics
 - How to use a clock component to randomize movement of sprites on a canvas
 - How to use a button component to trigger event listeners
