@@ -22,5 +22,7 @@ Phone applications (Apps) can be used to solve many real world problems. For exa
 - Create a “bombExplode” procedure that causes an explosion to appear on screen when the bomb is clicked on.
 - Make the sprites move to (0,0) and disable the clock if the user clicks on the ball 15 times
 - Only allow the user to click on the ball and bomb when the clock is enabled
-- Use resources page to learn how tinyDB works
+- Use the App Inventor 2 online book (link on the workshop outline) to learn how tinyDB (tiny database) works and use your knowledge to create a label which displays the highest amount of times the user has clicked on the ball before losing the game (clicking on the bomb.)
+## Resources
+-Free online book with exercises to practice App Inventor concepts: http://www.appinventor.org/book2
 
