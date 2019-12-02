@@ -13,13 +13,14 @@ The main objective of this workshop is to give students a basic understanding of
 - How to change the visual aspect of an app by dragging and dropping components from the palette
 - How to initialize a variable and use it to store a value
 - How to use sound effects in an app
-- How to affect the behavior image sprites in a canvas using event listeners
-- How to create and call a procedure to make code more readable and efficient to debug
+- How to make image sprites move in a canvas using procedures
+- How to create and call a procedure
 ## Uses
 Phone applications (Apps) can be used to solve many real world problems. For example, there are apps that help schedule bus transportation, organize documents(google drive), prevent texting while driving, and other important and useful problems. This workshop will be useful in providing the basic knowledge of App Inventor 2 that will allow students to create basic phone applications that solve real world issues.
 ## Challenges
 - Create a Pause Game button that stops the bomb and ball from moving when it is clicked on
 - Create a “bombExplode” procedure that causes an explosion to appear on screen when the bomb is clicked on.
-- Make the sprites move to (0,0) and disable the clock if the user clicks on the ball 5 times
+- Make the sprites move to (0,0) and disable the clock if the user clicks on the ball 15 times
 - Only allow the user to click on the ball and bomb when the clock is enabled
+- Use resources page to learn how tinyDB works
 
